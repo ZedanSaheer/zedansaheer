@@ -3,7 +3,7 @@
     <br/><br/><br/><img src='https://img.shields.io/badge/Full%20Stack%20Developer-JavaScript-103E2E?style=for-the-badge&logo=javascript'/> <br/> <br/> <br/>
     <img src="https://github.com/rahulsunil2/rahulsunil2/raw/master/media/computerProgrammer.gif">
 </div>                                              
-***
+
 
 <p align="center">
     <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=zedansaheer&theme=github&hide_border=true"/>
