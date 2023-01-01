@@ -6,11 +6,10 @@
 
 
 <p align="center">
-    <img width="98%" src="https://activity-graph.herokuapp.com/graph?username=zedansaheer&theme=github&hide_border=true"/>
 <a href="https://github.com/zedansaheer">
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=zedansaheer&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
-    <img width="49%" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=zedansaheer&theme=onedark&hide_border=true"/>
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=zedansaheer&theme=onedark&no-frame=true&no-bg=true"/>
+     <br/><br/><br/>  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=zedansaheer&theme=dracula&show_icons=true&count_private=true&hide_border=true"/>
+     <br/><br/><br/>   <img width="49%" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=zedansaheer&theme=onedark&hide_border=true"/>
+     <br/><br/><br/> <img width="98%" src="https://github-profile-trophy.vercel.app/?username=zedansaheer&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
 
